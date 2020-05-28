@@ -1,0 +1,30 @@
+.gridPane{
+    margin: 0px auto 0px auto;
+    width: 100%;
+    position: relative;
+}
+.path{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 30px;
+    position: absolute;
+}
+.path li{
+    list-style-type:none;
+    line-height: 30px;
+    width: 4%;
+    height: 30px;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+    float: left;
+}
+.grid{
+ top: 30px;
+    float: left;
+    position: absolute;
+}
+.pos{
+    float: left;
+}

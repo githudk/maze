@@ -1,0 +1,30 @@
+.maze{
+    top: 100px;
+    width: 1500px;
+    height: 650px;
+    background-color: rgb(243, 186, 186);
+    margin: 0 auto 0 auto;
+    position: relative;
+}
+.title{
+    margin: 0px auto 0px 10px;
+}
+.control{
+    left: 10px;
+    width: 480px;
+
+    box-sizing: border-box;
+    background-color: #b0dbfc;
+}
+.bbb{
+    width: 500px;
+    height: 650px;
+    background-color: rgb(255, 255, 255);
+    float:left;
+}
+.aaa{
+    width: 1000px;
+    height: 650px;
+    background-color: #a5f5ff;
+    float:left;
+}
